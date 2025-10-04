@@ -1,1 +1,1 @@
-# .ipnyb for my details and projects in fastai
+# .ipynb for my details and projects in fastai
